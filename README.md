@@ -10,10 +10,11 @@
     <img width="80" height="80" src="https://miro.medium.com/v2/resize:fit:1000/0*8v1xNP18Ovj3wg6K.gif">
 </div>
 <h2>Social Media</h2>
-<a href="https://www.instagram.com/oktay.altunkaya/">
-    <img width="80" height="80" src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338393_1280.png">
-</a>
-<a href="https://www.linkedin.com/in/oktay-altunkaya-a40122270/">
-    <img width="80" height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png">
-</a>
-
+<div style="display: flex;">
+    <a href="https://www.instagram.com/oktay.altunkaya/">
+        <img width="80" height="80" src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338393_1280.png">
+    </a>
+    <a href="https://www.linkedin.com/in/oktay-altunkaya-a40122270/">
+        <img width="80" height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png">
+    </a>
+</div>
